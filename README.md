@@ -1,4 +1,4 @@
-# Pomodoro Tutorial
+# pomodoro-tutorial
 
 Code from the Pomodoro Tutorial offered at [PeepCode Screencasts](http://peepcode.com).
 
